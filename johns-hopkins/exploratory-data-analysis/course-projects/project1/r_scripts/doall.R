@@ -1,0 +1,7 @@
+source("r_scripts/init.R")
+source("r_scripts/canary.R")
+source("r_scripts/get-clean.R")
+source("r_scripts/plot1.R")
+source("r_scripts/plot2.R")
+source("r_scripts/plot3.R")
+source("r_scripts/plot4.R")
